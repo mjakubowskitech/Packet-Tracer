@@ -20,8 +20,7 @@ This project simulates a small office environment with:
 
 Below is the network topology designed in Cisco Packet Tracer:
 
-<img width="1827" height="1434" alt="obraz" src="https://github.com/user-attachments/assets/2404b8ee-5144-4557-9829-371a94fbb9e7" />
-
+<img width="1114" height="1149" alt="obraz" src="https://github.com/user-attachments/assets/506563c0-6ad4-423f-a880-4ca0face13ec" />
 
 ---
 
